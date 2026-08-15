@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/bug-ur-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/bug-ur-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
