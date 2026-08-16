@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bug-ur-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
@@ -25,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
