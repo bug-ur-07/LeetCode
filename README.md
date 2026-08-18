@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/bug-ur-07/LeetCode/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/bug-ur-07/LeetCode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/bug-ur-07/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
