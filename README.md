@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bug-ur-07/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/bug-ur-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/bug-ur-07/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/bug-ur-07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/bug-ur-07/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/bug-ur-07/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
