@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/bug-ur-07/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/bug-ur-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bug-ur-07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/bug-ur-07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bug-ur-07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/bug-ur-07/LeetCode/tree/master/2653-sliding-subarray-beauty) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bug-ur-07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/bug-ur-07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bug-ur-07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/bug-ur-07/LeetCode/tree/master/2653-sliding-subarray-beauty) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bug-ur-07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bug-ur-07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bug-ur-07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bug-ur-07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bug-ur-07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
