@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bug-ur-07/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/bug-ur-07/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/bug-ur-07/LeetCode/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Backtracking
 |  |
 | ------- |
