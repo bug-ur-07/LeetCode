@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/bug-ur-07/LeetCode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bug-ur-07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bug-ur-07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
 |  |
 | ------- |
