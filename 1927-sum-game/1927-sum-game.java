@@ -45,6 +45,7 @@ class Solution {
                 return true;
             }else {
                 if(9* (lb/2) == rs-ls) return false;
+                else return true;
             }
         }else {
             if(rs>ls) return true;
@@ -53,6 +54,5 @@ class Solution {
                 else return true;
             }
         }
-            return true;
     }
 }
