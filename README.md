@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
+| [1927-sum-game](https://github.com/bug-ur-07/LeetCode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/bug-ur-07/LeetCode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1927-sum-game](https://github.com/bug-ur-07/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bug-ur-07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bug-ur-07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/bug-ur-07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/bug-ur-07/LeetCode/tree/master/1927-sum-game) |
 ## Matrix
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bug-ur-07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/bug-ur-07/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
