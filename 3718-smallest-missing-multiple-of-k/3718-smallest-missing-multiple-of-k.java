@@ -6,10 +6,8 @@ class Solution {
             set.add(e);
         }
 
-        for(int i=1;i<=101;i++){
-            if(!set.contains(i*k) && i!=0) return i*k;
+        for(int i=0;;i+=k){
+            if(!set.contains(i) && i!=0) return i;
         }
-
-        return 0;
     }
 }
