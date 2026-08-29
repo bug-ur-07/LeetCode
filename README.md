@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/bug-ur-07/LeetCode/tree/master/1872-stone-game-viii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bug-ur-07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/bug-ur-07/LeetCode/tree/master/2653-sliding-subarray-beauty) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bug-ur-07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bug-ur-07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bug-ur-07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bug-ur-07/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bug-ur-07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bug-ur-07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bug-ur-07/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/bug-ur-07/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bug-ur-07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
