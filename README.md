@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bug-ur-07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/bug-ur-07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bug-ur-07/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0567-permutation-in-string](https://github.com/bug-ur-07/LeetCode/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/bug-ur-07/LeetCode/tree/master/1927-sum-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/bug-ur-07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/bug-ur-07/LeetCode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
